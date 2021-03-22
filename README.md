@@ -2,6 +2,7 @@
 
 Simple startpage powered by tailwindcss and alpinejs
 
+![Screenshot](https://github.com/jerrylasama/Startpage/blob/main/docs/ss.png?raw=true)
 
 ## Features:
 
